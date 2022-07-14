@@ -4,7 +4,7 @@ const assignment = {};
 // ========================
 
 
-/**
+/**Attempted.
  * Challenge - 1
  * 
  * Calculate and return the sum of the numbers in an array.
@@ -22,7 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }
 assignment.sumOfNumbers = sumOfNumbers;
 
-/**
+/**Attempted.
  * Challenge - 2
  * 
  * Count all even numbers within an array of numbers.
